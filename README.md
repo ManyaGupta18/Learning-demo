@@ -1,4 +1,4 @@
 # Learning-demo
 This is my first Git Repository.
 <br>
-Author = Manya Gupta
+Author = Manya Gupta (PEC)
